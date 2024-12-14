@@ -1,5 +1,3 @@
-# Deepracer
-
 # AWS DeepRacer Joystick 
 
 ## Overview
